@@ -1,0 +1,5 @@
+Veuillez changer dans le code de l'outil, dans les premiers UserForm, (Userform1,Userform2,Userform3,Userform4)
+le chemin du graphe par votre propre chemin car, pour que l'affichage des courbes fonctionne correctement,
+il faut creer une image par rapport à votre chemin propre. Dans chaque UserForm, dirigez-vous vers le plus bas du code, 
+vous trouverez une variable appelée "fnom" et juste à coté, une note vous indiquant ou le changement doit se faire.
+Exemple :Remplacez le chemin "C:\Users\Sandouda\Desktop\PROJET\PROJET_FINAL1.gif" par "C:\Users\Votre_propre_chemin\PROJET_FINAL1.gif"
